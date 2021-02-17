@@ -13,3 +13,4 @@ buttons : [{label: "Hébergeur 🌐", url: "https://alzhe.tv/"}, {label: "Discor
 })
 })
 client.login({ clientId : "792946690185101333" }).catch(console.error); // Client ID à fournir obligatoirement, sinon c'est mon projet que vous allez promouvoir !
+// Gros big up à DataHosting (datahosting.fr) ou @Data_Hosting sur Twitter ! 🖤
