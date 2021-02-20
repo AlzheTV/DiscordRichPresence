@@ -1,5 +1,10 @@
 # RichPresence de Discord | Avoir des boutons, c'est possible !
 
+## Prérequis
+- Avoir un PC (reccomandé d'être sous Windows 10)
+- Avoir [NodeJS](https://nodejs.org/fr/).
+- Être minutieux au niveau de l'édition du code.
+
 ## Installation
 - Dézipper la release puis la déplacer au plus proche du lecteur principale (par exemple, chez moi, c'est C:\DRPC)
 - Configurez le index.js, vous devez aussi avoir une application sur le [Discord Developer Portal](https://discord.com/developers/applications/).
@@ -16,3 +21,5 @@ Pour effectuer un test, vous devrez redémarrer votre ordinateur.
 - Alzhe (upload sur github) ❤
 - Développeur initial 🤍
 - Discord 💙
+
+*Modifier un fichier .js ne signifie pas que vous êtes développeurs ! :D*
